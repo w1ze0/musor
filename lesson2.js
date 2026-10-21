@@ -147,43 +147,43 @@
 // console.log(Math.max (2, 34, 99, 3, 22, 36, 733, 18))
 
 
-let celsius = 25;
-let fahrenheit = (celsius * 9) / 5 + 32;
-console.log(`${celsius}°C дорівнює ${fahrenheit}°F`);
+// let celsius = 25;
+// let fahrenheit = (celsius * 9) / 5 + 32;
+// console.log(`${celsius}°C дорівнює ${fahrenheit}°F`);
 
-let daysInMonth = 30;
-let hoursInMonth = daysInMonth * 24;
-let minutesInMonth = hoursInMonth * 60;
-console.log(`У місяці з ${daysInMonth} днями: ${hoursInMonth} годин та ${minutesInMonth} хвилин`);
+// let daysInMonth = 30;
+// let hoursInMonth = daysInMonth * 24;
+// let minutesInMonth = hoursInMonth * 60;
+// console.log(`У місяці з ${daysInMonth} днями: ${hoursInMonth} годин та ${minutesInMonth} хвилин`);
 
-let health = 100;
-let energy = 80;
-health -= 20;
-energy -= 15;
-console.log(`Після ушкодження та дій: Здоров'я = ${health}, Енергія = ${energy}`);
+// let health = 100;
+// let energy = 80;
+// health -= 20;
+// energy -= 15;
+// console.log(`Після ушкодження та дій: Здоров'я = ${health}, Енергія = ${energy}`);
 
-let totalPrice = 500;
-const discount = 0.1;
-let discountedPrice = totalPrice * (1 - discount);
-console.log(`Початкова ціна: ${totalPrice}, Ціна зі знижкою: ${discountedPrice}`);
+// let totalPrice = 500;
+// const discount = 0.1;
+// let discountedPrice = totalPrice * (1 - discount);
+// console.log(`Початкова ціна: ${totalPrice}, Ціна зі знижкою: ${discountedPrice}`);
 
-const floatNumber = 12.78;
-let roundedDown = Math.floor(floatNumber);
-console.log(`Округлене до меншого число ${floatNumber} дорівнює ${roundedDown}`);
+// const floatNumber = 12.78;
+// let roundedDown = Math.floor(floatNumber);
+// console.log(`Округлене до меншого число ${floatNumber} дорівнює ${roundedDown}`);
 
-const floatString = "45.67";
-let parsedFloat = parseFloat(floatString);
-console.log(`Рядок "${floatString}" перетворено у число: ${parsedFloat}`);
-
-
-const intString = "123";
-let parsedInt = parseInt(intString);
-console.log(`Рядок "${intString}" перетворено у ціле число: ${parsedInt}`);
+// const floatString = "45.67";
+// let parsedFloat = parseFloat(floatString);
+// console.log(`Рядок "${floatString}" перетворено у число: ${parsedFloat}`);
 
 
-let number = 64;
-let sqrtNumber = Math.sqrt(number);
-console.log(`Квадратний корінь числа ${number} дорівнює ${sqrtNumber}`);
+// const intString = "123";
+// let parsedInt = parseInt(intString);
+// console.log(`Рядок "${intString}" перетворено у ціле число: ${parsedInt}`);
+
+
+// let number = 64;
+// let sqrtNumber = Math.sqrt(number);
+// console.log(`Квадратний корінь числа ${number} дорівнює ${sqrtNumber}`);
 
 // const integer = 42;
 // const stringNumber = "256";
